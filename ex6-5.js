@@ -1,1 +1,4 @@
-function sayhello() {varwho = 'world';alert('Hello, ' + who + '!');}function taro() {who = '太郎';alert('太郎が来た');}function hanako() {who = '花子';alert('花子が来た');}
+function sayhello65() {var who = 'world';alert('Hello, ' + who65 + '!');}
+function taro65() {who = '太郎';alert('太郎が来た');}
+function hanako65() {who = '花子';alert('花子が来た');}
+
