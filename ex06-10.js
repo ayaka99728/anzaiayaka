@@ -1,1 +1,1 @@
-function imgchange1() {document.getElementById('image1').src= './image/josai.jo-kun.png';}
+function imgchange1() {document.getElementById('logo').src= './image/josai.jo-kun.png';}
